@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">G - Snake</string>
+
+    <string name="menu_start">Restart</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_prefs">Preferences</string>
+    <string name="welcome">Welcome To\nG - Snake\n \nTouch Screen\nTo Play</string>
+    <string name="game_over">Game Over\n\nScore:  </string>
+    <string name="paused">paused</string>
+</resources>

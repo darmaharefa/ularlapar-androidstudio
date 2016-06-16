@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="maze_type">
+        <item>No Maze</item>
+        <item>Full Box</item>
+        <item>Four Doors</item>
+        <item>Snakes &amp; Ladders</item>
+    </string-array>
+
+</resources>
